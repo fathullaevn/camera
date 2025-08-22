@@ -1,1 +1,1 @@
- https://5f451c8c66e7.ngrok-free.app
+ngrok http --url=oriented-ladybird-working.ngrok-free.app 80
